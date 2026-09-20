@@ -1,5 +1,5 @@
 # Hi, I'm Jared Delgado! 👋
-<img src="./bannerpixel.png" alt="banner pixel" width="200" align="right">
+<img src="./BannerPixel.png" alt="banner pixel" width="200" align="right">
 
 Software Engineering student at **CETYS Universidad** 🇲🇽, passionate about learning by building real things — from mobile apps to retro games.
 
