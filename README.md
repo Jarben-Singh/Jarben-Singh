@@ -5,7 +5,7 @@ Software Engineering student at **CETYS Universidad, Campus Ensenada** 🇲🇽,
 ## 🚀 What I'm working on
 
 - 🎯 **Focus-Focus** — Productivity app built with React Native/Expo, featuring streaks, gems, a scoring system, and full deployment through TestFlight/App Store Connect.
-- 👾 **SNES Tetris Clone** — A 12-week team project building a Tetris clone for the SNES from scratch using PVSnesLib and WLA-DX.
+- 👾 **SNES Tetris Clone** — A 12-week team project building a Tetris clone for the SNES from scratch using WLA-DX.
 - 🥊 **Rollback Netcode Fighting Game** — A minimal fighting game in C++ with GGPO-style rollback netcode, built as a portfolio piece for networking-focused roles.
 
 ## 🛠️ Technologies & tools
