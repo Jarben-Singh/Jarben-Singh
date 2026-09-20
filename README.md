@@ -1,6 +1,6 @@
 # Hi, I'm Jared Delgado! 👋
 
-Software Engineering student at **CETYS Universidad, Campus Ensenada** 🇲🇽, passionate about learning by building real things — from mobile apps to retro games.
+Software Engineering student at **CETYS Universidad** 🇲🇽, passionate about learning by building real things — from mobile apps to retro games.
 
 ## 🚀 What I'm working on
 
