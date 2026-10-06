@@ -15,8 +15,8 @@ Software Engineering student at **CETYS Universidad** 🇲🇽, passionate about
 
 ## 🌱 Other interests
 
-- 🎥 Tech content creator on YouTube
-- 🧴 Entrepreneur — I run a fragrance business
+- 🎥 Creator on YouTube
+- 🧴 I run a fragrance business
 - 🎸 I play in a worship music group
 - 🎮 I'm passionate about retro game development and low-level systems
 
