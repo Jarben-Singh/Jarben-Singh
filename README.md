@@ -9,9 +9,13 @@ Software Engineering student at **CETYS Universidad** 🇲🇽, passionate about
 - 👾 **SNES Tetris Clone** — A 12-week team project building a Tetris clone for the SNES from scratch using WLA-DX.
 - 🥊 **Rollback Netcode Fighting Game** — A minimal fighting game in C++ with GGPO-style rollback netcode, built as a portfolio piece for networking-focused roles.
 
+## ⌨️ Programming Languages
+
+`Java` `Python` `C++` `JavaScript` `TypeScript` 
+
 ## 🛠️ Technologies & tools
 
-`Java` `Python` `C++` `JavaScript` `React` `React Native` `Spring Boot` `FastAPI` `PostgreSQL` `Docker` `Git/GitHub`
+`React` `React Native` `Spring Boot` `FastAPI` `PostgreSQL` `Docker` `Git/GitHub`
 
 ## 🌱 Other interests
 
